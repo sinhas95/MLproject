@@ -1,0 +1,2 @@
+The models can be used as ASE calculator objects or in integration with LAMMPS software to run molecular dynamics simulations or extract potential energy surfaces for different coverages and phases of CO/NaCl(100) between temperatures upto 300 K with a good confidence level, higher temperatures could be also used but needs to be carefully evaluated. 
+For more details please see the paper : <arxiv link>
